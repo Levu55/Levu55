@@ -17,6 +17,8 @@
 ![Levu55's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Levu55&show_icons=true&theme=radical)
 
 ##  Connect With Me
-[![Gmail](https://img.shields.io/badge/-wk408610@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](mailto:wk408610@gmail.com
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/04673a347)
+[![Gmail](https://img.shields.io/badge/-wk408610@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](Mail to:wk408610@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)]linkedin.com/in/waleed-ahmed-khan
+
 
