@@ -1,9 +1,9 @@
 # Hi, I'm Waleed! 
 
- Web Developer from Islamabad, Pakistan 🇵🇰
- Building projects with HTML, CSS, JavaScript & Python
- Currently learning: React.js | Node.js | CI/CD 
- Reach me at: wk408610@gmail.com
+ Web Developer from Rawalpindi, Pakistan 🇵🇰
+ Building scalable and modern websites 
+ Currently learning: React.js | Node.js | CI/CD | Next.js | Typescript
+ Reach me at: buildsbywaleed@gmail.com
 
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
