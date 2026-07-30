@@ -20,5 +20,5 @@
 [![Gmail](https://img.shields.io/badge/-buildbywaleed@gmail.com-D14836?logo=gmail&logoColor=white&style=flat)](Mail to:buildsbywaleed@gmail.com
 
 Let's connect on LinkedIn! Explore my latest projects, professional journey, and collaborate on innovative ideas. I'm always open to meaningful connections, exciting opportunities, and impactful collaborations.
-🔗 https://www.linkedin.com/in/waleed-iqbal-khan-6924a9423
+🔗 https://www.linkedin.com/in/waleed-iqbal-6924a9423
 
